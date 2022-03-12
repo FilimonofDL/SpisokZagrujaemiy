@@ -1,0 +1,18 @@
+<!--
+  ~ /**
+  ~  * Created by Rafsan Ahmad on 10/11/21, 5:44 PM
+  ~  * Copyright (c) 2021 . All rights reserved.
+  ~  */
+  -->
+
+<resources>
+    <string name="app_name">Paging 3</string>
+    <string name="loading">Loading</string>
+    <string name="language">Language: %s</string>
+    <string name="search_hint">GitHub Repository</string>
+    <string name="no_results">No results 😓</string>
+    <string name="unknown">\?</string>
+    <string name="retry">Retry</string>
+    <string name="paging_from_network">Paging from network</string>
+    <string name="paging_from_network_database"><![CDATA[Paging from network & database]]></string>
+</resources>
